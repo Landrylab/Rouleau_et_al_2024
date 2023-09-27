@@ -20,6 +20,7 @@ matplotlib v3.5.3
 seaborn v0.12.2
 re v2.2.1
 Biopythion v1.78
+sklearn mixture v1.0.2
 ```
 All other packages used are specified in Materials and Methods of the main text. 
 
